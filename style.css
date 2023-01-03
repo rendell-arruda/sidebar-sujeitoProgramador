@@ -120,6 +120,16 @@ body {
   border: 0;
   color: #fff;
 }
+
+.button-mobile span {
+  font-size: 20px;
+  margin-left: 8px;
+}
+
+.button-close span i {
+  font-size: 42px;
+}
+
 .menu-mobile {
   display: none;
 }
